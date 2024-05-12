@@ -33,7 +33,7 @@ Icons: Leveraged Font Awesome for visual elements.
 Content: Curated from credible sources including Google, YouTube, and Google blogs.
 
 ## Usage
-To experience WildVerse, simply navigate to [website link] and explore the mesmerizing world of wildlife. Feel free to contribute, provide feedback, or report issues through [contact information].
+To experience WildVerse, simply navigate to https://abhishek143895.github.io/WildVerse-Exploring-Earth-s-Natural-Symphony/ and explore the mesmerizing world of wildlife. Feel free to contribute, provide feedback, or report issues through abhisheksrivastavabhu@gmail.com.
 
 ## Acknowledgments
 WildVerse is a collaborative effort, made possible by the contributor:
