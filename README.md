@@ -4,7 +4,7 @@ Welcome to ### WildVerse, a captivating platform dedicated to exploring the wond
 ## Development Overview
 In the development of WildVerse, a combination of HTML, CSS, and JavaScript was employed to create a seamless user experience. The following key techniques and technologies were leveraged:
 
-### HTML, CSS, JavaScript: Fundamental languages for web development.
+###HTML, CSS, JavaScript: Fundamental languages for web development.
 ### Owl Carousel (JS Library): Implemented for slideshow effects, enhancing visual storytelling.
 ### AOS - Animate On Scroll (JS Library): Employed for dynamic animations, enriching user interaction.
 ### jQuery (JS Library): Used for enhancing JavaScript functionality and engagement.
