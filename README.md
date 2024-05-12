@@ -36,4 +36,6 @@ Content: Curated from credible sources including Google, YouTube, and Google blo
 To experience WildVerse, simply navigate to https://abhishek143895.github.io/WildVerse-Exploring-Earth-s-Natural-Symphony/ and explore the mesmerizing world of wildlife. Feel free to contribute, provide feedback, or report issues through abhisheksrivastavabhu@gmail.com.
 
 ## Acknowledgments
-WildVerse is made possible by the contributor: Abhishek Srivastava - UI/Web Developer
+WildVerse is made possible by the contributor: Abhishek Srivastava - UI/Web Developer 
+
+Profile - https://www.linkedin.com/in/abhishek-srivastava-933b6a19a/
