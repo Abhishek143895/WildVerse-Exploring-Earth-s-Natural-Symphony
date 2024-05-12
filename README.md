@@ -1,5 +1,5 @@
 # WildVerse: Explore Earth's Natural Symphony
-Welcome to ###WildVerse###, a captivating platform dedicated to exploring the wonders of wildlife through immersive storytelling and stunning visuals. This README provides insights into the development process, technologies used, and sources referenced.
+Welcome to ### WildVerse ###, a captivating platform dedicated to exploring the wonders of wildlife through immersive storytelling and stunning visuals. This README provides insights into the development process, technologies used, and sources referenced.
 
 ## Development Overview
 In the development of WildVerse, a combination of HTML, CSS, and JavaScript was employed to create a seamless user experience. The following key techniques and technologies were leveraged:
