@@ -1,4 +1,8 @@
 # WildVerse: Explore Earth's Natural Symphony
+
+https://github.com/Abhishek143895/WildVerse-Exploring-Earth-s-Natural-Symphony/assets/80271185/1684d73c-ab72-4077-956f-caf8b9dadcbf
+
+
 Welcome to  WildVerse, a captivating platform dedicated to exploring the wonders of wildlife through immersive storytelling and stunning visuals. This README provides insights into the development process, technologies used, and sources referenced.
 
 ## Development Overview
