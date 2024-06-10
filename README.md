@@ -42,4 +42,4 @@ To experience WildVerse, simply navigate to https://abhishek143895.github.io/Wil
 ## Acknowledgments
 WildVerse is made possible by the contributor: Abhishek Srivastava - UI/Web Developer 
 
-Profile - https://www.linkedin.com/in/abhishek-srivastava-933b6a19a/
+Profile - https://www.abhishekfolio.online/
